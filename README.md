@@ -15,7 +15,7 @@ How many service settings, context types, national categories, and appointment s
 - National categories: 18
 - Appointment statuses: 3
 
-Week 3 
+#Week 3 
 Q1. Between what dates were appointments scheduled?
 - Start Date 2021-08-01
 - End Date 2022-06-30
@@ -46,6 +46,20 @@ appointment_month count of appointments
 2022-04    23913060
 2022-05    27495508
 2022-06    25828078
+
+#Week 4 
+Objective 1: Create three visualisations indicating the number of appointments per month for service settings, context types, and national categories
+1) Service Setting
+- Among all the service settings, General Practice has the highest number of appointments 
+2) Context Types
+- Among all the context types, "Care-related-encounter" has the highest number of appointments 
+3) National Categories 
+- Among all the context types, "General Consultation Routine" has the highest number of appointments 
+4) Peak Months: 2021-11, 2022-03, 2022-05
+
+Objective 2: Create four visualisations indicating the number of appointments for service setting per season. The seasons are summer (August 2021), autumn (October 2021), winter (January 2022), and spring (April 2022).
+- The peak season is Autum (2021-10) 
+
 
 
 
