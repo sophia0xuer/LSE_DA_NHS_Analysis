@@ -60,7 +60,14 @@ Objective 1: Create three visualisations indicating the number of appointments p
 Objective 2: Create four visualisations indicating the number of appointments for service setting per season. The seasons are summer (August 2021), autumn (October 2021), winter (January 2022), and spring (April 2022).
 - The peak season is Autum (2021-10) 
 
-
+#Week 5 
+Identify and review the top trending hashtags (#) related to healthcare in the UK based on the data set received from the NHS.
+The top 5 tags are 
+- #Healthcare
+- #Health
+- #medicine 
+- #ai 
+- #job
 
 
 
